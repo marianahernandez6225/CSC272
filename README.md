@@ -1,30 +1,14 @@
-# \# Difference-Objects-Classes
+# Difference-Objects-Classes
 
-# 
+## Purpose
+This project demonstrates the difference between classes and objects in Java.
 
-# \## Purpose
+A class defines the structure and behavior of something, while objects are created from that class and store actual data in memory.
 
-# This project demonstrates the difference between classes and objects in Java.
+## Java Code
 
-# 
+### Student.java
+[code here]
 
-# A class defines the structure and behavior of something, while objects are created from that class and store actual data in memory.
-
-# 
-
-# \## Java Code
-
-# 
-
-# \### Student.java
-
-# \[code here]
-
-# 
-
-# \### Main.java
-
-# \[code here]
-
-# 
-
+### Main.java
+[code here]
